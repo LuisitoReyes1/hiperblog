@@ -1,0 +1,32 @@
+main
+{
+    text-align: center;
+    background-color: aqua;
+}
+
+#cabecera {
+    background-color: red;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,.75);
+    color: white;
+    font-weight: bold; 
+    margin: 0;
+    padding: .5rem;
+
+}
+
+.contenedor {
+    background-color: coral;
+    width: 70%;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid #456;
+    margin: 0 auto;
+}
+
+.contenedor h1 {
+    font-size: 20px;
+}
+
+.post {
+    padding: 10px;
+}
